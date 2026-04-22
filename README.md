@@ -1,6 +1,6 @@
 # Store Management System
 
-**Java Swing + MySQL | Production-Ready Desktop App | 2026**
+**Java Swing + MySQL | Production-Ready Desktop App **
 
 Full-stack desktop application quản lý cửa hàng thời trang với **24 use cases**, hỗ trợ **35 concurrent users**, **response <2s**.
 
